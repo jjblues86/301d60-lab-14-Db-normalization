@@ -10,6 +10,7 @@ Start time: __10:00am___
 Finish time: __10:30am___
 
 Actual time needed to complete: __30mins___
+
 -------------------------------------------------------------------------
 Number and name of feature: _________Database Migration_________
 
