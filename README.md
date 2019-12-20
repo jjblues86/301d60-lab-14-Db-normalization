@@ -1,23 +1,23 @@
 # 301d60-lab-14-Db-normalization
 # Jerome and Mattaus
 
-Number and name of feature: ______________Database Setup__________________
+Number and name of feature: Database Setup
 
-Estimate of time needed to complete: __20mins___
+Estimate of time needed to complete: 20mins
 
-Start time: __10:00am___
+Start time: 10:00am
 
-Finish time: __10:30am___
+Finish time: 10:30am
 
-Actual time needed to complete: __30mins___
+Actual time needed to complete: 30mins
 
 -------------------------------------------------------------------------
-Number and name of feature: _________Database Migration_________
+Number and name of feature: Database Migration
 
-Estimate of time needed to complete: __30mins___
+Estimate of time needed to complete: 30mins
 
-Start time: __10:30am___
+Start time: 10:30am
 
-Finish time: __10:50am___
+Finish time: 10:50am
 
-Actual time needed to complete: __20mins___
+Actual time needed to complete: 20mins
